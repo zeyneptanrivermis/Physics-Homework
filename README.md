@@ -1,2 +1,2 @@
 # Physics-Homeworks
- Assignments from Physics courses
+ Assignments from physics courses
